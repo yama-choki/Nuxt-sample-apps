@@ -102,10 +102,15 @@ export default {
           to: '/inspire'
         },
         {
-          icon: 'mdi-chart-bubble',
-          title: 'calendar_sample',
+          icon: 'mdi-calendar-outline',
+          title: 'Calendar_sample',
           to: '/calendar_sample'
-        }
+        },
+        {
+          icon: 'mdi-web',
+          title: 'Web_Page_sample',
+          to: '/web_page_sample'
+        },
       ],
       miniVariant: false,
       right: true,
